@@ -15,23 +15,41 @@ Latihan1#Sistem Perhitungan Sederhana
 2.Berikut kode lengkapnya
 
 int main()
+
 {
+
     cout<<"*****************SISTEM PERHITUNGAN SEDERHANA*****************"<<endl;
+
     cout<<"                      AMIRUDIN"<<endl;
+
     cout<<"                      311810362"<<endl;
+
     cout<<"                       TI.18.C2"<<endl;
+
     cout<<endl;
+
     cout<<endl;
+
     cout<<"            ====DAFTAR PERHITUNGAN ARITMATIKA===="<<endl;
+
     int x,y,hasil;
+
     string Jumlah = "1.Penjumlahan (+)";
+
     cout<<Jumlah<<endl;
+
     string Pengurangan = "2.Pengurangan (-)";
+
     cout<<Pengurangan<<endl;
+
     string Pembagian = "3.Pembagian (/)";
+
     cout<<Pembagian<<endl;
+
     string Perkalian = "4.Perkalian (*)";
+
     cout<<Perkalian<<endl;
+
     cout<<endl;
 
     cout<<"Masukan Angka ke-1 :";
